@@ -34,7 +34,7 @@ time.sleep(0.5)
 print("                  Division(/)")
 time.sleep(0.5)
 
-sign = str(input("Enter your operation!" "\n")) 
+sign = str(input("Enter your operation!" "\n")
 time.sleep(0.5)
 
 print("                Your result is")
