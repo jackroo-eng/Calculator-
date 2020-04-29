@@ -54,5 +54,5 @@ time.sleep(1)
 print("             Thank you for using!")
 time.sleep(0.5)
 
-print("😎😍")
+
   
